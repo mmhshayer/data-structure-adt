@@ -5,7 +5,7 @@ Hubei University of Technology, Data Structure Course 2020.
 Topic: Student Management System
 
 Team: 
-•[Mohammad Mustakim Hassan](https://github.com/viceroyshayer)•[Ahnmetzhanova Anel](https://github.com/aaxxnp)•[Ismail Hossain Sony](https://github.com/isony257)•[Rahman Noushad A N M Nurullah Masuder](https://github.com/anmnoushad)•
+•[Mohammad Mustakim Hassan](https://github.com/mmhshayer)•[Ahnmetzhanova Anel](https://github.com/aaxxnp)•[Ismail Hossain Sony](https://github.com/isony257)•[Rahman Noushad A N M Nurullah Masuder](https://github.com/anmnoushad)•
 
 ## <div align="center">User’s Manual</div>
 
